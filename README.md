@@ -4,4 +4,4 @@
 cd build<br> 
 cmake ..<br>  
 make<br>  
-./src/zayac```
+./src/zayac
